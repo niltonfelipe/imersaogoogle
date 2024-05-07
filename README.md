@@ -1,4 +1,4 @@
-# 🌟 Imersão em IA com ChatGPT 🌟
+# 🌟 Imersão em IA com Gemini 🌟
 
 Bem-vindos(as) ao **repositório oficial** da minha **imersão IA com o Gemini**! 🚀
 
