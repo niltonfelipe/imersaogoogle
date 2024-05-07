@@ -1,0 +1,109 @@
+# 💡 Boas-vindas e Introdução
+
+## 👋 Boas-vindas
+**Paulo Silveira**: CEO da Alura, dá as boas-vindas ao público nesta edição de imersão em Inteligência Artificial, destacando a colaboração com o Google.
+
+## 🤝 Parceria
+**Google** traz o Gemini, sua IA avançada, para esta experiência única.
+
+## 🛠️ Conheça a Equipe
+- **Luciano Martins**: Developer Advocate do Google AI, co-apresenta e traz experiência prática com o Gemini.
+- **Fabrício Carraro**: Program Manager na Alura e autor de livros sobre IA, lidera a exploração do Gemini junto com a comunidade.
+
+## 🚀 Visão Geral e Evolução do Gemini
+- **🎥 Evento Google I/O**: Sundar Pichai apresenta o Gemini em um importante evento na Califórnia, enfatizando seus avanços.
+- **🔍 Impacto da IA Generativa**: Foco na tecnologia transformadora para o presente e futuro.
+
+### 🤖 Recursos do Gemini
+- Capacidades multimodais
+- Raciocínio avançado
+- Interpretação de texto/imagem
+
+## 🌐 A Influência Crescente da IA
+- **🇧🇷 Brazil at Silicon Valley**: Paulo Silveira discute o impacto da IA em profissionais e startups brasileiros.
+- **📈 Transformação de Carreira**: Influência imediata da IA em várias carreiras, incentivando os participantes a se envolverem com o Gemini.
+
+## 🔍 Google AI Studio
+- **🔧 Ferramentas Práticas**: Acesse o Gemini via [gemini.google.com](https://gemini.google.com)
+- **🗂️ Gemini Pro vs. Gemini Advanced**: Entenda as diferenças e casos de uso adequados.
+- **🗣️ Interface Conversacional**: Comece com prompts simples ou use técnicas avançadas de calibração.
+
+## 🛠️ Demonstrações Práticas
+- **✍️ Criação de Poemas**: Gemini cria um poema temático de viagem para entusiastas de tecnologia rumo ao Japão.
+- **📊 Geração de Tabelas**: Gera tabelas com facilidade, mostrando o poder do gerenciamento de dados estruturados.
+
+## 📚 Fundamentos da IA Generativa
+- **📜 Entendendo LLMs**:
+  - Modelos de Linguagem Gigantes (LLMs) como o Gemini são treinados em um vasto conjunto de dados.
+- **🔍 Geração Probabilística de Texto**:
+  - Prediz palavras subsequentes com base nas probabilidades aprendidas.
+- **⚙️ Engenharia de Prompts**:
+  - Importância de criar prompts precisos para resultados eficazes.
+- **🔍 Analogia ao Modelo de Grafos**:
+  - As conexões internas do Gemini entre tokens podem ser visualizadas como uma estrutura gráfica complexa.
+
+
+💼 Quais aplicações específicas o Gemini oferece para não-desenvolvedores?
+                                                                       
+
+👩‍💼 Análise de Sentimento
+📝 Reviews: Análise de avaliações para entender a satisfação do cliente em diferentes setores (hotéis, restaurantes, etc.).
+🤖 Classificação Automática: Classifique e atribua notas automaticamente, direcionando equipes de marketing e experiência.
+💬 Geração de Conteúdo
+✍️ Posts e Artigos: Criação de postagens, artigos e conteúdo de marketing para redes sociais, blogs ou sites.
+🎥 Roteiros de Vídeos: Sugestões e roteiros para vídeos curtos no Instagram Stories ou TikTok.
+📊 Análise de Dados
+📋 Resumo de Dados: Gere insights a partir de planilhas ou bases de dados, resumindo as principais tendências.
+📈 Classificação de Dados: Identifique padrões e crie relatórios automáticos para equipes de negócios.
+🔍 Pesquisa e Resumo de Informações
+📚 Resumo de Documentos: Resuma contratos, relatórios e documentos longos.
+🔍 Pesquisa Contextual: Responda a perguntas sobre tópicos complexos com base em dados históricos.
+🌐 Tradução e Interpretação
+📝 Tradução Automática: Traduza documentos, imagens e transcrições para diversos idiomas.
+📷 Interpretação de Imagens: Extraia texto e dados de imagens para relatórios ou análise.
+Insights baseados em números:
+1 a 5: Notas atribuídas automaticamente às avaliações analisadas pelo Gemini.
+20 milhões: Reviews disponíveis em datasets, demonstrando a capacidade do modelo em escala.
+                                                                       
+
+
+⚙️ Como a engenharia de prompts influencia os resultados do Gemini?
+                                                                       
+
+🎯 Especificidade do Pedido
+✔️ Solicitações Claras: Prompts claros e diretos geram respostas mais precisas.
+❌ Solicitações Ambíguas: Prompts vagos podem levar a respostas fora do contexto.
+🔍 Detalhamento das Instruções
+📚 Instruções Explícitas: Prompts que indicam o formato desejado (e.g. JSON, lista, parágrafos) melhoram a estrutura das respostas.
+📋 Exemplos Relevantes: Fornecer exemplos nos prompts ajuda o modelo a entender a expectativa do usuário.
+📝 Contextualização e Continuidade
+🗣️ Históricos de Conversa: Usar o contexto de conversas anteriores melhora a continuidade das respostas.
+📄 Documentos Referenciados: Referenciar documentos, tabelas ou gráficos específicos permite respostas mais fundamentadas.
+💼 Aplicações Práticas
+✍️ Geração de Conteúdo: Especificar o estilo (e.g. formal, técnico, amigável) e a estrutura de posts, artigos ou roteiros.
+📊 Análise de Dados: Prompts detalhados ajudam na classificação, sumarização e análise de planilhas.
+🗂️ Organização de Respostas: Definir tópicos e sub-tópicos gera respostas organizadas e focadas.
+
+                                                                       
+⚖️ Comparação entre Gemini Pro e Gemini Advanced:
+
+🎯 Gemini Pro
+⚙️ Modelo: Gemini Pro 1.0.
+💡 Recursos:
+Raciocínio Avançado: Capacidade de interpretar texto e imagem com alta precisão.
+Multimodalidade: Processa textos, imagens e vídeos.
+Prompt Engineering: Responde a comandos otimizados com contexto.
+📊 Uso Ideal:
+Consultas simples a moderadamente complexas.
+Geração de conteúdo, resumos e roteiros.
+Análises de sentimento em avaliações.
+🚀 Gemini Advanced
+⚙️ Modelo: Gemini Advanced.
+💡 Recursos:
+Processamento Ampliado: Ideal para grandes volumes de texto ou multimídia.
+Capacidade de Entrada: Aceita prompts mais longos e dados multimodais complexos.
+Análise Profunda: Responde perguntas mais complexas com base em conjuntos de dados amplos.
+📊 Uso Ideal:
+Análise de grandes conjuntos de dados.
+Extração de insights de documentos longos ou arquivos multimídia.
+Automatização de processos via API.
