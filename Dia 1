@@ -1,0 +1,31 @@
+🔍 Visão Geral:
+
+Nova Edição de IA: Apresentado por Paulo Silveira (CEO da Alura), a imersão foca no Gemini, a avançada tecnologia de IA do Google, com os convidados Luciano Martins e Fabrício Carraro.
+Colaboração Única: Parceria entre Alura e Google para apresentar o Gemini através de exercícios práticos, desafios e experiências hands-on.
+🤖 Insights sobre o Gemini AI:
+
+Recursos do Gemini:
+Modelo Pro 1.0: Lida com interpretação de texto, imagem, vídeo e raciocínio.
+Modelo Advanced: Suporta volumes maiores de entrada para respostas mais abrangentes.
+Interface Conversacional: Permite que os usuários conversem diretamente com o Gemini para consultas e execução de comandos.
+Técnicas de Engenharia de Prompt:
+Comandos claros e específicos produzem melhores respostas.
+Exemplo de prompt: "Crie um poema de viagem para entusiastas de tecnologia promovendo o Japão."
+🌐 Aplicações Além do Desenvolvimento:
+
+Usos para Marketing e Negócios:
+Criar campanhas publicitárias direcionadas.
+Gerar conteúdo personalizado para públicos específicos, por exemplo, entusiastas de viagens.
+Integração com Planilhas:
+Exportar tabelas geradas pelo Gemini para o Google Sheets.
+Simplificar fluxos de trabalho de análise de dados.
+🎯 Treinamento e Arquitetura do Gemini:
+
+Processo de Treinamento:
+Utiliza vastos recursos da internet, como enciclopédias, artigos científicos e snippets de código.
+Desenvolve um modelo de linguagem probabilística para prever sequências lógicas de palavras.
+Modelos de Linguagem de Grande Porte (LLMs):
+Aprendem relacionamentos semânticos entre palavras.
+Geram respostas precisas e contextualmente relevantes.
+Apoiado por GPUs e TPUs para cálculos rápidos.
+
