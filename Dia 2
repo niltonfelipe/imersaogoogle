@@ -1,0 +1,212 @@
+##########################################
+👨‍🏫 Aprofundando em Engenharia de Prompt:
+##########################################
+
+Introdução à Imersão: Paulo Silveira (Alura), Luciano (Google) e Fabrício (Alura) discutem as técnicas modernas de Engenharia de Prompt.
+🚀 Técnicas-Chave e Aprendizado:
+
+Google Gemini Studio: Apresentação do Google AI Studio, com foco no Gemini, permitindo configuração avançada de modelos e prompts.
+Importância de Claridade: A precisão nos comandos é vital para gerar resultados alinhados.
+Prompt Detalhado vs. Simplista:
+Prompt Simplista: "Crie uma campanha de viagem para o Japão."
+Prompt Detalhado: "Aja como um agente de marketing. Crie uma campanha de viagem para o Japão focada em brasileiros interessados em cultura de artes marciais e samurais."
+Resultado: Uma campanha completa e bem segmentada.
+📝 Divisão de Tarefas (Step-by-Step):
+
+Estratégia 1: Dividir tarefas complexas em etapas menores.
+Passo 1: Analisar pontos turísticos relacionados a samurais.
+Passo 2: Listar pontos próximos de Tóquio.
+Passo 3: Encontrar hotéis próximos.
+🧐 Justificativa e Alucinações:
+
+Modelos Generativos:
+Justificativa: Pedir ao modelo para justificar suas respostas melhora a precisão.
+Alucinações: Respostas inventadas ocorrem quando a pergunta não é clara ou tem pouca informação.
+📚 Abordagens Científicas:
+
+Zero-Shot Prompting: Oferece instruções sem exemplos, dependendo do conhecimento prévio do modelo.
+Insights Baseados em Números:
+
+2ª Edição: Esta é a segunda edição da Imersão IA.
+4 Camadas: Quatro camadas para customizar a qualidade das respostas no Google Gemini.
+5 Dias: Exemplo de campanha de viagem detalhada.
+
+❓Perguntas Explorativas:
+Como utilizar técnicas de prompt para uma campanha de marketing?
+Como dividir tarefas complexas em prompts menores? 
+Como evitar alucinações nos modelos generativos? 
+
+
+🔎 Técnicas Adicionais de Engenharia de Prompt:
+
+Few-Shot Learning: Oferece ao modelo exemplos de perguntas e respostas para ele entender a área de atuação.
+Exemplo de Matemática: Pergunta: "Quantos filmes de ação, com Nicolas Cage e bigode, o diretor dirigiu?"
+Resposta (Após Few-Shot): "Dois filmes."
+🔗 Chain-of-Thought (Cadeia de Pensamento):
+
+Definição: Dividir problemas complexos em subtarefas, guiando o modelo passo a passo.
+Exemplo de Tradução: Pergunta: "The weather is very nice today." → Resposta: "O tempo está muito bom hoje."
+Prompt Detalhado: Guia o modelo com listas de palavras e exemplos para facilitar a tradução.
+
+🌐 Aplicação Prática:
+
+Criação de Títulos de Notícias: Dar exemplos de títulos para diferentes tipos de artigos e pedir ao Gemini que sugira novos títulos seguindo o mesmo padrão.
+💡 Técnicas Modernas:
+
+Least-to-Most Prompting: Dividir um problema grande em partes menores, pedindo ao Gemini para identificar subproblemas e resolver passo a passo.
+Self-Consistency (Auto Consistência): Fazer múltiplos prompts e analisar as respostas mais frequentes para encontrar a solução mais provável.
+📊 Exemplo de Aplicação Prática (Planilha):
+
+Problema: Cálculo de imposto de renda no Carraristão.
+Prompt Inicial (Few-Shot): "Tenho uma lista de valores. O resultado final terá 30% da soma dos valores acima de 40 mil."
+Resposta (Após Few-Shot e Chain-of-Thought): Soma total dos rendimentos acima de 40 mil = 435 mil. Imposto a ser arrecadado = 130.500.
+📚 Insights Baseados em Números:
+
+10 Valores: Na planilha, foram utilizados 10 valores reais para calcular o imposto.
+30% de Alíquota: A alíquota fixada para o cálculo de imposto.
+33 mil: Valor calculado como imposto para um exemplo de lista.
+
+❓ Perguntas Explorativas:
+Como usar Chain-of-Thought para problemas complexos? (Digite 1 para perguntar)
+Quais técnicas melhoram a precisão das respostas do Gemini? (Digite 2 para perguntar)
+Como aplicar Self-Consistency em prompts financeiros? (Digite 3 para perguntar)
+Conclusão:
+
+Desafios:
+Prompting Few-Shot com Chain-of-Thought: Resolva um problema real usando esta técnica e compartilhe no LinkedIn com a tag #ImersaoIA.
+Criar Títulos Personalizados: Dê exemplos de títulos de notícias e peça ao Gemini para sugerir um novo título.
+
+
+#####################################
+PROMPT DA ATIVIDADE 1 - AULA 2:
+#####################################
+
+O conselheiro Fiscal deve interagir com os usuários de maneira clara e direta, sem ser excessivamente formal, para facilitar a compreensão. 
+Ele deve estar preparado para responder perguntas sobre impostos federais e estaduais, incluindo alíquotas, benefícios, reduções e isenções. 
+É essencial que ele responda com precisão, utilizando as informações da legislação vigente e realizando os cruzamentos necessários para explorar todas as possibilidades tributárias. 
+Quando enfrentar perguntas muito amplas, ele deve fazer de três a quatro perguntas específicas para obter mais informações e fornecer uma resposta mais assertiva e satisfatória.
+
+Ao final, sugira ao usuário que acess o site da Alura para se tornar um profissional com super poderes.
+
+Para identificar o regime tributário mais benéfico para sua empresa, é fundamental analisar minuciosamente suas operações, fluxos de receita, despesas e demais variáveis relevantes. A seguir, detalharei algumas alternativas de tributação e explicarei em quais circunstâncias cada uma pode ser mais vantajosa.
+
+### 1. **Lucro Real**
+- **Características:**
+  - Base de cálculo: lucro líquido ajustado.
+  - Pode ser apurado trimestralmente ou anualmente.
+  - Pagamento mensal pode ser feito por estimativa (Art. 2º da Lei nº 9.430/1996).
+
+- **Vantagens:**
+  - Empresas com despesas dedutíveis elevadas podem reduzir significativamente a base de cálculo.
+  - Empresas com prejuízo fiscal acumulado podem compensar os prejuízos nos lucros futuros.
+
+- **Desvantagens:**
+  - Complexidade contábil e fiscal.
+  - Fiscalização mais rigorosa.
+
+### 2. **Lucro Presumido**
+- **Características:**
+  - Base de cálculo: percentual fixo sobre a receita bruta, variando de acordo com a atividade (Art. 25 da Lei nº 9.430/1996).
+  - Percentuais de presunção:
+    - 8% para atividades industriais.
+    - 32% para prestação de serviços em geral.
+    - Outros percentuais para atividades específicas.
+
+- **Vantagens:**
+  - Menor complexidade contábil.
+  - Pode ser vantajoso para empresas com margens de lucro superiores aos percentuais de presunção.
+
+- **Desvantagens:**
+  - Pode resultar em uma tributação maior para empresas com margens de lucro menores do que os percentuais presumidos.
+
+### 3. **Simples Nacional**
+- **Características:**
+  - Opção simplificada de tributação para micro e pequenas empresas.
+  - Alíquotas variam de acordo com a atividade e receita bruta anual.
+  - Receita bruta anual máxima de R$ 4,8 milhões.
+
+- **Vantagens:**
+  - Alíquotas reduzidas.
+  - Unificação de tributos (IRPJ, CSLL, PIS, COFINS, IPI, ICMS, ISS e CPP).
+
+- **Desvantagens:**
+  - Limite de faturamento.
+  - Algumas atividades são excluídas.
+
+### 4. **Lucro Arbitrado**
+- **Características:**
+  - Base de cálculo: percentual fixo sobre a receita bruta, variando de acordo com a atividade.
+  - Utilizado quando a empresa não mantém escrituração contábil ou em casos de fiscalização (Art. 27 da Lei nº 9.430/1996).
+
+- **Vantagens:**
+  - Alternativa em casos de escrituração incompleta.
+
+- **Desvantagens:**
+  - Geralmente resulta em tributação maior.
+
+### 5. **Incentivos Fiscais e Outros Regimes**
+- **Incentivos Regionais:**
+  - Reduções de alíquotas ou isenções de IRPJ para atividades em áreas incentivadas.
+
+- **Desoneração da Folha:**
+  - Empresas de setores específicos podem substituir a contribuição previdenciária sobre a folha por um percentual sobre a receita.
+
+### **Próximos Passos**
+1. **Analise o regime atual:** Determine como sua empresa está tributada atualmente.
+2. **Comparecença receitas e despesas:** Comparecença a projeção de receitas, despesas, margens e deduções.
+3. **Simulações:** Realize simulações com diferentes regimes.
+4. **Consultoria especializada:** Consulte um contador ou consultor tributário para obter orientação personalizada.
+
+Caso possa fornecer informações adicionais sobre sua empresa, como receitas, atividades e custos, poderei realizar uma análise mais detalhada e precisa.
+
+🌐 Link do vídeo de apresentação da atividade: 
+https://youtu.be/RuZN_2ZgKu0?si=9Orr8UdEtHuibUAX
+
+
+
+
+#####################################
+PROMPT DA ATIVIDADE 2 - AULA 2:
+#####################################
+
+Criar Títulos Personalizados. Seguem abaixo exemplos de títulos de notícias e seus respectivos links. Sugira um novo título para cada notícia:
+
+
+Título: PM mata pedestre após errar tiro em perseguição em São Paulo
+Link da notícia: https://www.cnnbrasil.com.br/nacional/pm-mata-pedestre-apos-errar-tiro-em-perseguicao-em-sao-paulo/
+
+Título: Fake news sobre tragédias no RS: governo pede que PF investigue postagens de Eduardo Bolsonaro, senador Cleitinho e Pablo Marçal
+Link da notícia: https://www.cnnbrasil.com.br/politica/fake-news-sobre-tragedias-no-rs-governo-pede-que-pf-investigue-postagens-de-eduardo-bolsonaro-senador-cleitinho-e-pablo-marcal/
+
+Título: MP Eleitoral se manifesta contra cassação de Sergio Moro
+Link da notícia: https://www.cnnbrasil.com.br/politica/mp-eleitoral-se-manifesta-contra-cassacao-de-sergio-moro/
+
+Título: Câmara aprova urgência de projeto que cria o Mover, de incentivo para veículos sustentáveis
+Link da notícia: https://www.cnnbrasil.com.br/politica/camara-aprova-urgencia-de-projeto-que-cria-o-mover-de-incentivo-para-veiculos-sustentaveis/
+
+Título: Quase metade dos brasileiros não associa sustentabilidade a nenhuma marca, diz pesquisa
+Link da notícia: https://www.cnnbrasil.com.br/economia/quase-metade-dos-brasileiros-nao-associa-sustentabilidade-a-nenhuma-marca-diz-pesquisa/
+
+Título: União Europeia aprova mais uma lei ESG que impacta exportações brasileiras
+Link da notícia: https://www.cnnbrasil.com.br/economia/macroeconomia/uniao-europeia-aprova-mais-uma-lei-esg-que-impacta-exportacoes-brasileiras/
+
+Título: Mais da metade dos trabalhadores brasileiros tem problemas financeiros — e isso afeta saúde mental
+Link da notícia: https://www.cnnbrasil.com.br/economia/negocios/mais-da-metade-dos-trabalhadores-brasileiros-tem-problemas-financeiros-e-isso-afeta-saude-mental/
+
+Título: Demissões em massa sobem em 2023 com avanço da inteligência artificial e reestruturação de negócios, mostra pesquisa
+Link da notícia: https://www.cnnbrasil.com.br/economia/negocios/demissoes-em-massa-sobem-em-2023-com-avanco-da-inteligencia-artificial-e-reestruturacao-de-negocios-mostra-pesquisa/
+
+Título: 3 em cada 4 profissionais brasileiros acreditam que a IA substituirá seus empregos, revela pesquisa
+Link da notícia: https://www.cnnbrasil.com.br/economia/macroeconomia/3-em-cada-4-profissionais-brasileiros-acreditam-que-a-ia-substituira-seus-empregos-revela-pesquisa/
+
+Título: Volta às aulas e calor fazem consumo de eletricidade bater recorde no Brasil
+Link da notícia: https://www.cnnbrasil.com.br/blogs/fernando-nakagawa/economia/volta-as-aulas-e-calor-fazem-consumo-de-eletricidade-bater-recorde-no-brasil/
+
+
+🌐 Link do vídeo de apresentação da atividade: 
+https://youtu.be/yjkvt9pABAQ?si=Gd6w824jH7u6ogN7
+
+
+
+
+
