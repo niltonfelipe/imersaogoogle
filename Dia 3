@@ -82,24 +82,27 @@ Clique em "Upload" e selecione a imagem desejada para fazer o upload.
 
 ***Método 2: Google Drive***
 
-1. Monte seu Google Drive no Colab em python:
-
-from google.colab import drive
-drive.mount('/content/drive')
-
-Copie a imagem para um diretório em seu Google Drive.
-2. Trabalhar com a Imagem no Google Colab
-Após fazer o upload da imagem para o Colab (ou para o Google Drive), você pode usar bibliotecas como OpenCV, PIL ou Matplotlib para processá-la.
-
-Exemplo usando OpenCV e Matplotlib:
+# Instale a biblioteca gdown para baixar arquivos do Google Drive
+!pip install gdown
 
 # Importe as bibliotecas necessárias
 import cv2
 import matplotlib.pyplot as plt
+import gdown
 
-# Carregue a imagem usando OpenCV
-image_path = '/content/image.jpg'  # Altere para o caminho correto da imagem
+# Faça o download da imagem usando gdown
+file_id = '1ZMqv2PeUAWxMIBCWwqs4-T2Rqalf9rMG'
+url = f'https://drive.google.com/uc?id={file_id}'
+output = 'downloaded_image.jpg'
+gdown.download(url, output, quiet=False)
+
+# Carregue a imagem baixada usando OpenCV
+image_path = output
 image = cv2.imread(image_path)
+
+# Verifique se a imagem foi carregada corretamente
+if image is None:
+    raise ValueError('Imagem não carregada. Verifique o caminho da imagem.')
 
 # Converta a imagem de BGR para RGB (por causa do OpenCV)
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -108,6 +111,15 @@ image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
 plt.imshow(image_rgb)
 plt.axis('off')  # Ocultar os eixos
 plt.show()
+
+
+***Explicação dos Procedimentos***
+gdown: Uma biblioteca Python que facilita o download de arquivos do Google Drive usando seus IDs.
+cv2.imread: Carrega a imagem em formato BGR.
+cv2.cvtColor: Converte a imagem de BGR para RGB para exibição correta.
+matplotlib.pyplot: Biblioteca de visualização usada para exibir a imagem.
+
+
 
 Referências:
 
