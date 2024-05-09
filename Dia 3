@@ -34,10 +34,85 @@ Quais são os pontos fortes da integração entre Google AI Studio e Python via 
 Como a busca de informações entre vídeos, PDFs e outros formatos pode revolucionar os assistentes virtuais?
 
 **Desafio:**
-Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio;
-Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab;
-Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab.
+1 Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio;
+2 Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab;
+3 Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab.
 
 ## Atividades
 - **Código**: [Classificador Simples](./codigo/classificador.py)
 - **Documentação**: [Análise das Técnicas Utilizadas](./documentacao/analise.pdf)
+
+################
+***Desafio 1***
+################
+
+Prompt: "Analise o áudio e responda do que se trata. Se for um texto conhecido, informe o autor."
+Resposta do Google AI Studio ao desafio 1:
+
+Análise do Áudio: A Passagem do Tempo e a Inevitabilidade da Morte
+O áudio apresenta um texto poético e filosófico que reflete sobre a passagem do tempo, a impermanência das coisas e a inevitabilidade da morte.
+Principais Temas:
+Transformação e Fim: O texto destaca como as invenções, instituições e até mesmo o próprio sol estão sujeitos à transformação e ao fim. Nada é permanente, tudo está em constante fluxo.
+Tempo Implacável: O relógio é apresentado como um símbolo do tempo definitivo e perpétuo, marcando implacavelmente a progressão em direção à morte.
+Consciência da Morte: O "último homem" tem plena consciência da sua mortalidade e carrega um relógio para saber a hora exata de sua morte. Essa imagem simboliza a obsessão humana com o tempo e a finitude da vida.
+Possível Autor:
+O estilo do texto, com sua linguagem poética e reflexões filosóficas, sugere um autor do período moderno ou contemporâneo. Infelizmente, com as informações disponíveis, não é possível identificar o autor específico.
+Conexões Literárias:
+O texto evoca temas e imagens presentes em obras de diversos autores que exploraram a temática da morte e da passagem do tempo, como:
+Fernando Pessoa: A reflexão sobre o tempo e a consciência da morte são temas recorrentes na obra do poeta português, especialmente no seu heterônimo Álvaro de Campos.
+Machado de Assis: O autor brasileiro também explorou a temática da morte e da finitude humana em obras como "Memórias Póstumas de Brás Cubas".
+Franz Kafka: A angústia existencial e a sensação de alienação do indivíduo diante do mundo moderno são temas presentes na obra do escritor tcheco, que podem ser relacionados com a imagem do "último homem" do áudio.
+
+Conclusão:
+O áudio apresenta uma reflexão profunda sobre a condição humana e a inevitabilidade da morte. A linguagem poética e as imagens simbólicas convidam o ouvinte a contemplar a passagem do tempo e a finitude da vida.
+
+
+
+################
+***Desafio 2***
+################
+1. Subir a Imagem para o Google Colab
+Método 1: Upload manual
+
+No Google Colab, clique no ícone de arquivos na barra lateral esquerda.
+Clique em "Upload" e selecione a imagem desejada para fazer o upload.
+
+
+
+Método 2: Google Drive
+
+1. Monte seu Google Drive no Colab em python:
+
+from google.colab import drive
+drive.mount('/content/drive')
+
+Copie a imagem para um diretório em seu Google Drive.
+2. Trabalhar com a Imagem no Google Colab
+Após fazer o upload da imagem para o Colab (ou para o Google Drive), você pode usar bibliotecas como OpenCV, PIL ou Matplotlib para processá-la.
+
+Exemplo usando OpenCV e Matplotlib:
+
+# Importe as bibliotecas necessárias
+import cv2
+import matplotlib.pyplot as plt
+
+# Carregue a imagem usando OpenCV
+image_path = '/content/image.jpg'  # Altere para o caminho correto da imagem
+image = cv2.imread(image_path)
+
+# Converta a imagem de BGR para RGB (por causa do OpenCV)
+image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+
+# Exiba a imagem usando Matplotlib
+plt.imshow(image_rgb)
+plt.axis('off')  # Ocultar os eixos
+plt.show()
+
+Referências:
+
+Google Colab - Getting Started
+https://colab.research.google.com/notebooks/intro.ipynb
+
+Python Imaging Library (PIL) - Pillow
+https://pillow.readthedocs.io/en/stable/
+
