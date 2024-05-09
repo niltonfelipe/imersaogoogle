@@ -71,15 +71,16 @@ O áudio apresenta uma reflexão profunda sobre a condição humana e a inevitab
 ################
 ***Desafio 2***
 ################
-1. Subir a Imagem para o Google Colab
-Método 1: Upload manual
 
+***Método 1: Upload manual***
+
+1. Subir a Imagem para o Google Colab
 No Google Colab, clique no ícone de arquivos na barra lateral esquerda.
 Clique em "Upload" e selecione a imagem desejada para fazer o upload.
 
 
 
-Método 2: Google Drive
+***Método 2: Google Drive***
 
 1. Monte seu Google Drive no Colab em python:
 
