@@ -1,0 +1,59 @@
+💡 Recapitulação da Aula Anterior e o Desafio Final
+
+A aula anterior incluiu conceitos básicos de Python.
+No final da aula, foi anunciado o desafio para criar o melhor projeto, oferecendo prêmios como uma bolsa de 100% na FIAP e acesso ao plano Pro da Alura.
+Para participar, todos os níveis de conhecimento são bem-vindos, desde programadores iniciantes até especialistas.
+
+🔑 Obtenção e Configuração da API Key
+API Key: Uma chave de acesso que autentica os usuários na API Gemini.
+Como Criar: Acesse o Google AI Studio, clique em "Get API Key" e crie uma chave no Google Cloud.
+Cuidados: Não compartilhe a chave publicamente, e remova-a se necessário.
+
+🔧 Configurando o Ambiente no Google Colab
+Google Colab: Um ambiente de notebooks Python online gratuito, ideal para a experimentação de IA.
+Gemini API SDK: Instale a biblioteca "google-generativeai" com o comando pip install -q -U google-generativeai.
+Notebook Estruturado: Permite inserir comentários e gráficos para contar histórias e insights.
+
+🚀 Criação do Chatbot
+Inicializando o Modelo Gemini
+Escolha a versão desejada do modelo, por exemplo, gemini-1.0-pro.
+Liste os modelos disponíveis usando genai.list_models().
+Configurações de Segurança e Geração
+Configure os filtros de segurança, como harassment, hate e dangerous.
+Parâmetros como temperature, candidate_count, top_k e top_p controlam a geração de conteúdo.
+Gerando Conteúdo
+Use model.generate_content() com prompts personalizados para obter respostas do chatbot.
+
+🎯 Dicas e Insights
+Prompt Engineering: Experimente diferentes prompts para ver variações de respostas.
+Comunidade: Participe do Discord da Alura para compartilhar ideias e tirar dúvidas.
+Google Cloud Innovators: Explore a comunidade para aprender mais sobre os produtos Google Cloud.
+
+Prompt e Resposta: Uma variável prompt é usada para capturar a entrada do usuário via input(), e o método send_message do objeto chat é utilizado para enviar mensagens e obter respostas.
+Loop While: O chatbot é envolvido em um loop while, permitindo interações contínuas até que a palavra "fim" seja digitada para finalizar a conversa.
+
+💬 Funcionalidades Avançadas do Chatbot
+Histórico de Conversa: O chat.history armazena todas as interações para manter o contexto e fornecer respostas mais inteligentes.
+Exibição Bonita com Markdown: O uso de markdown melhora a aparência das respostas, formatando-as com títulos e negrito.
+
+🎯 Desafio Final
+Prêmio Incrível: A primeira colocação ganha uma bolsa de 100% na FIAP, acesso ao plano Pro da Alura, e convites para a IA Conference Brasil 2024.
+Objetivo do Projeto: Criar um projeto que utilize a Gemini API, alinhado com os conceitos abordados durante a imersão.
+Regras e Critérios:
+Deve-se usar a Gemini API.
+Criatividade, utilidade, eficácia e apresentação serão os principais critérios de avaliação.
+Ética: Projetos que promovam discurso de ódio ou violência serão desclassificados.
+
+📋 Passos para Subir o Projeto no GitHub
+Criação do Repositório: Faça login no GitHub, clique em "New" e crie um repositório com um arquivo README.md para facilitar a conexão com o Google Colab.
+Salvar uma Cópia no GitHub: No Google Colab, clique em "Arquivo > Salvar uma cópia no GitHub", escolha o repositório e a branch.
+Incluir Variáveis Secretas: Para proteger sua API Key, use from google.colab import userdata e armazene-a como uma chave secreta.
+
+📝 Exemplo de Perguntas Exploratórias
+Perguntas Exploratórias
+Quais são os passos detalhados para obter a API Key e configurar o Google Colab?
+Quais são os diferentes modelos disponíveis na Gemini API e suas funcionalidades?
+Quais são os desafios comuns ao criar um chatbot e como evitá-los?
+Como garantir a segurança da API Key ao compartilhar projetos?
+Qual é a estrutura recomendada para organizar um projeto no GitHub?
+Quais são os critérios detalhados de avaliação do desafio?
