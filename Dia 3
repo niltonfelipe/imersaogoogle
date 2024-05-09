@@ -32,3 +32,9 @@ Perguntas Explorativas
 Como os diferentes formatos multimodais (áudio, vídeo, imagem) são utilizados em aplicações práticas no Google AI Studio? 
 Quais são os pontos fortes da integração entre Google AI Studio e Python via Google Colab?
 Como a busca de informações entre vídeos, PDFs e outros formatos pode revolucionar os assistentes virtuais?
+
+Desafio:
+
+Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio;
+Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab;
+Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab.
