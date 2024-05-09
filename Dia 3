@@ -1,1 +1,34 @@
+💡 Tokens e NLP:
+Tokens: unidades básicas de texto processadas pelo modelo.
+Lematização: reduz palavras às suas formas básicas.
+Embeddings: representação numérica de palavras/tokens.
+Tokens no Google AI: cada análise de áudio, vídeo ou PDF resulta em tokens, influenciando custos.
 
+🎯 Reconhecimento Multimodal:
+Áudio: transcrição automática e busca de expressões específicas.
+Vídeo: análise visual e textual para identificar padrões.
+Imagens: relaciona com elementos de vídeo e texto.
+
+🦆 Exemplo Multimodal:
+Vídeo de Patinhos: busca de momentos específicos com base em uma imagem.
+Aplicações no Turismo: identificação de pontos turísticos e geração de roteiros.
+
+🗺️ PDF e Vídeo: Correlação:
+Análise cruzada entre vídeos e guias turísticos em PDF.
+Exemplo: relacionar pontos turísticos de um vídeo do Japão com um guia PDF.
+
+🔄 Google AI Studio e Código:
+Open in Colab: traduz prompts em código Python.
+API Key: chave de acesso para autenticar solicitações.
+Google Colab: integração e automação com Python para uso em larga escala.
+
+🧠 Insights Baseados em Números:
+
+4 métodos de prompts multimodais.
+3 técnicas para tokens: lematização, embeddings e divisão por caracteres.
+
+Perguntas Explorativas
+
+Como os diferentes formatos multimodais (áudio, vídeo, imagem) são utilizados em aplicações práticas no Google AI Studio? 
+Quais são os pontos fortes da integração entre Google AI Studio e Python via Google Colab?
+Como a busca de informações entre vídeos, PDFs e outros formatos pode revolucionar os assistentes virtuais?
