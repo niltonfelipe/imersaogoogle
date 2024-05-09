@@ -24,9 +24,9 @@ Aqui, vamos **documentar** todas as atividades incríveis propostas durante os c
 - **Criar projetos inovadores** que possam fazer a diferença no mundo! 💡
 
 ## Estrutura do Repositório
-- **Dia 1:** Aula 1: Mergulhando no Gemini, a IA do Google 🧠
-- **Dia 2:** Aula 02: Melhores técnicas em Engenharia de Prompt 💻
-- **Dia 3:** Aula 03: Explorando os parâmetros do Google AI Studio
+- **Dia 1:** 🧠 Aula 1: Mergulhando no Gemini, a IA do Google
+- **Dia 2:** 💻 Aula 02: Melhores técnicas em Engenharia de Prompt
+- **Dia 3:** 🤖 Aula 03: Explorando os parâmetros do Google AI Studio
 - **Dia 4:**   🚀
 - **Dia 5:**   🌍
 
