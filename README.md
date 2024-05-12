@@ -19,7 +19,7 @@ Aqui, vamos **documentar** todas as atividades incríveis propostas durante os c
 
 ## Objetivos
 - **Aprender** sobre as **potencialidades do Gemini**
-- **Explorar** ferramentas e boas práticas para trabalhar com **IA**
+- **Explorar** ferramentas e boas práticas para trabalhar com IA
 - **Trocar experiências** com outros entusiastas e profissionais do campo
 - **Criar projetos inovadores** que possam fazer a diferença no mundo! 💡
 
@@ -29,8 +29,7 @@ Aqui, vamos **documentar** todas as atividades incríveis propostas durante os c
 - **Dia 3:** 🤖 Aula 03: Explorando os parâmetros do Google AI Studio
 - **Dia 4:**   🚀
 - **Dia 5:**   🌍
-
-
+  
 ## Aprofunde-se nos seguintes tópicos:
 
 - [Google Gemini e Imersão Inteligência Artificial | Hipsters Ponto Tech #407](https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/)
