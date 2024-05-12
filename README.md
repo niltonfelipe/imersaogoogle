@@ -29,6 +29,7 @@ Aqui, vamos **documentar** todas as atividades incríveis propostas durante os c
 - **Dia 3:** 🤖 [Aula 03](https://www.youtube.com/watch?v=kk236Kcm_p4)
 - **Dia 4:** 🚀 [Aula 04](https://www.youtube.com/watch?v=iwt4bOIHy7s)
 - **Dia 5:** 🌍 [Aula 05](https://www.youtube.com/watch?v=Ih64Ad5eots)
+- [***Desafio Final***](https://github.com/niltonfelipe/elo_coletivo)
   
 ## Aprofunde-se nos seguintes tópicos:
 
