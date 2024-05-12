@@ -24,7 +24,7 @@ Aqui, vamos **documentar** todas as atividades incríveis propostas durante os c
 - **Criar projetos inovadores** que possam fazer a diferença no mundo! 💡
 
 ## Estrutura do Repositório
-- **Dia 1:** 🧠 [Aula 1](https://www.youtube.com/watch?v=1TQp_g2ScGg)
+- **Dia 1:** 🧠 [Aula 01](https://www.youtube.com/watch?v=1TQp_g2ScGg)
 - **Dia 2:** 💻 [Aula 02](https://www.youtube.com/watch?v=U0U78uwGtLQ)
 - **Dia 3:** 🤖 [Aula 03](https://www.youtube.com/watch?v=kk236Kcm_p4)
 - **Dia 4:** 🚀 [Aula 04](https://www.youtube.com/watch?v=iwt4bOIHy7s)
