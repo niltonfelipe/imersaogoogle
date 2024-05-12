@@ -30,6 +30,31 @@ Aqui, vamos **documentar** todas as atividades incríveis propostas durante os c
 - **Dia 4:**   🚀
 - **Dia 5:**   🌍
 
+
+## Aprofunde-se nos seguintes tópicos:
+
+- [Google Gemini e Imersão Inteligência Artificial | Hipsters Ponto Tech #407](https://www.hipsters.tech/google-gemini-e-imersao-inteligencia-artificial-hipsters-ponto-tech-407/)
+- [O que é o Google Gemini](https://www.alura.com.br/artigos/google-gemini)
+- [O que é IA generativa?](https://www.alura.com.br/artigos/inteligencia-artificial-ia-generativa-chatgpt-gpt-midjourney)
+- [Como criar uma Inteligência Artificial?](https://www.alura.com.br/artigos/como-criar-inteligencia-artificial-ia)
+- [O que é Machine Learning | Hipsters Ponto Tube](https://www.youtube.com/watch?v=Iuz_jc96bQk)
+- Paper da OpenAI ["Language Models are Few-Shot Learners"](https://arxiv.org/abs/2005.14165)
+- Paper do Google ["Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"](https://arxiv.org/abs/2201.11903)
+- Paper do Google ["Least-to-Most Prompting Enables Complex Reasoning in Large Language Models"](https://arxiv.org/abs/2205.10625)
+- Paper do Google ["Self-Consistency Improves Chain of Thought Reasoning in Language Models"](https://arxiv.org/abs/2203.11171)
+- [Machine Learning no mundo da biometria, Google Gemini e verificação de alucinações Hipsters: Fora de Controle #29](https://www.alura.com.br/podcast/hipsterstech-machine-learning-no-mundo-da-biometria-google-gemini-e-verificacao-de-alucinacoes-hipsters-fora-de-controle-29-a9140)
+- [O que é Engenharia de Prompt e quais as suas principais técnicas?](https://www.alura.com.br/artigos/engenharia-prompt#principios-para-a-criacao-de-um-prompt)
+- [Google I/O, desenvolvimento responsável e modelos multimodais | Hipsters: Fora de Controle #05](https://www.hipsters.tech/google-i-o-desenvolvimento-responsavel-modelos-multimodais-hipsters-fora-de-controle-05/)
+- [O que é Machine Learning?](https://www.alura.com.br/artigos/machine-learning)
+- [O que é PLN?](https://www.alura.com.br/artigos/o-que-e-pln)
+
+- [Guia de Python](https://www.alura.com.br/artigos/python)
+
+- [O que é Deep Learning?](https://www.alura.com.br/artigos/deep-learning-deep-fake)
+
+- [Conheça mais sobre Numpy](https://www.alura.com.br/artigos/numpy-computacao-cientifica-com-python)
+- [O que é o Python Pandas?](https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar)
+- 
 ## Participe!
 Contribua com ideias, exemplos de código e tudo mais que possa ajudar a comunidade de IA crescer e fazer o bem usando IA! 🌟
 
